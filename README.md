@@ -1,3 +1,6 @@
+<img src="/Music.jpg" alt="Music"/>
+
+
 # **Music Store Database Analysis Using SQL**
 
 ## **Project Overview**  
